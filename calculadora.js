@@ -3,7 +3,7 @@ let b = 8
 let soma = a + b
 let subtracao = a - b
 let multiplicacao = a * b
-let divisao = a / b
+let divisao = a / b / a
 
 console.log("A soma dos dois números é : ", soma)
 console.log("A subtração dos dois números é :", subtracao)
