@@ -1,7 +1,7 @@
 // Função para calcular o IMC
 function calcularIMC(peso, altura) {
   var imc = peso / (altura * altura);
-  return imc.toFixed(2);
+  return imc.toFixed(5);
 }
 
 // Função para determinar a categoria com base no IMC
